@@ -168,6 +168,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Golang](https://golang.org/) for its concurrency support and ease of use.
 - [sqlc](https://sqlc.dev/) for generating type-safe code from SQL.
 - [gRPC](https://grpc.io/) for efficient communication between nodes.
-```
 
-### License File
+
