@@ -2,7 +2,7 @@
 
 ## Overview
 
-**FileSphere** is a distributed file storage system that enables users to store, share, and retrieve files over a decentralized network of nodes. Inspired by technologies like IPFS (InterPlanetary File System) and Dropbox, this system provides secure, scalable, and fault-tolerant file storage, utilizing Go’s concurrency model for efficient communication and data management.
+A distributed file storage system that enables users to store, share, and retrieve files over a decentralized network of nodes. Inspired by technologies like IPFS (InterPlanetary File System) and Dropbox, this system provides secure, scalable, and fault-tolerant file storage, utilizing Go’s concurrency model for efficient communication and data management.
 
 ## Features
 
